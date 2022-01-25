@@ -1,0 +1,32 @@
+The examples are provided by R. Cavoretto, A. De Rossi, 
+E. Perracchione. Cite as 
+R. Cavoretto, A. De Rossi, E. Perracchione, 
+Learning with Partition of Unity-based Kriging Estimators: 
+Efficient Uncertainty Computation. Available on ArXive.
+
+The routine MainKEPU contains examples concerning 
+the computation of the KEPU interpolant and associated variance. 
+
+To run such codes the following Matlab functions must be downloaded.
+
+G. E. Fasshauer, DistanceMatrix.m, available at:
+http://www.math.usm.edu/cschen/COS702/DistanceMatrix.m
+
+G. E. Fasshauer, MakeSDGrid.m, available at:
+http://www.math.unipd.it/~demarchi/TAA2010/MakeSDGrid.m
+
+D. Dougherty, haltonseq.m, available at:
+http://www.math.usm.edu/cschen/COS702/HW1/Reese/haltonseq.m
+
+J. Montalt Tordera, shade.m, available at:
+https://it.mathworks.com/matlabcentral/fileexchange/69652-filled-area-plot
+
+R. Cavoretto, A. De Rossi, E. Perracchione, 
+IntegerBased_MD_Structure, IntegerBased_MD_RangeSearch, 
+IntegerBased_MD_Neighbourhood, IntegerBased_MD_ContainingQuery, 
+available at: http://hdl.handle.net/2318/1559094
+
+Required toolbox: Signal processing, optimization and
+                  Statistics and Machine Learning Toolbox
+
+Last update: 24/01/2022
