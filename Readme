@@ -2,7 +2,8 @@ The examples are provided by R. Cavoretto, A. De Rossi,
 E. Perracchione. Cite as 
 R. Cavoretto, A. De Rossi, E. Perracchione, 
 Learning with Partition of Unity-based Kriging Estimators: 
-Efficient Uncertainty Computation. Available on ArXive.
+Efficient Uncertainty Computation. Available on Researchgate at
+https://www.researchgate.net/profile/Emma-Perracchione
 
 The routine MainKEPU contains examples concerning 
 the computation of the KEPU interpolant and associated variance. 
