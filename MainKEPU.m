@@ -6,7 +6,8 @@
 % The following script provides the 1d KEPU examples included in
 % R. Cavoretto, A. De Rossi, E. Perracchione, 
 % Learning with Partition of Unity-based Kriging Estimators: 
-% Efficient Uncertainty Computation. Available on ArXive.
+% Efficient Uncertainty Computation. Available on Researchgate at
+% https://www.researchgate.net/profile/Emma-Perracchione
 %
 % -------------------------------------------------------------------------------- %
 
