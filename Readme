@@ -5,7 +5,7 @@ Learning with Partition of Unity-based Kriging Estimators:
 Efficient Uncertainty Computation. Available on Researchgate at
 https://www.researchgate.net/profile/Emma-Perracchione
 
-NOTE: Despite the codes work in any dimensions, the available data 
+REMARK: Despite the codes work in any dimensions, the available data 
 allow the reproduction only of the 1d experiments of the above paper. 
 
 The routine MainKEPU contains examples concerning 
